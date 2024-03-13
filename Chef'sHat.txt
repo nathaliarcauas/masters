@@ -1,0 +1,155 @@
+The Chef’S Hat Interaction Game
+
+Cards
+There are 68 ingredient cards, and 11 different ingredients. The
+ingredients that are more common are more frequent within the
+deck however, the rarest and highest valued ingredient- the
+chilli pepper - only occurs once.
+
+Value of the cards and corresponding ingredients
+01 - Chilli Pepper
+02 - Shrimp
+03 - Basil
+04 - Gorgonzola
+05 - Bell Pepper
+06 - Olives
+07 - Salami
+o8 - Mushroom
+o9 - Onion
+10 - Tomato
+11 - Mozzarella
+Joker
+
+Playing Field
+The playing field is a pizza base on top of a cutting board. Place the
+cards one by one on the indicated squares on the pizza. Always place your
+cards on top of the cards of the previous player.
+
+Description of the playing field: There's a big semi-circle in the far left called oven. In the center,
+the "cutting board" which contains a grid of 3 squares of height and 5 squares of length,
+creating a big rectangle of squares. The squares present in the upper right corner, upper left corner,
+lower right corner and the lower left corner all contain the word "pass" for the pass cards. The rest
+of the squares are blank.
+
+In every corner of the playing field are designated spots to put a players
+role card. On every corner of the pizza there are designated spots for each
+player to place their pass-card, when they pass during the game. The pass-card
+is explained in Special cards. The oven on one side of the playing field indicates
+the place where used ingredient cards can be put when a new pizza is made.
+
+Gameplay
+In short the game is divided into rounds called shifts. A Shift is a working day in
+the restaurant and consists of three phases:
+
+1. Start of the shift
+2. Making Pizzas
+3. End of the Shift
+
+A shift starts by distributing all ingredient cards to all players. During the Shift,
+multiple pizzas are made by the entire staff. A shift is finished when no players have
+ingredient cards left in their hand. After a finished shift points are distributed, and
+the roles of the kitchen staff are divided according to the player's skils, the first
+person to reach 15 points wins the game!
+
+Section 1: Start of the Shift
+A Shift starts when all cards are distributed among the players If one of the players
+has two Jokers they can decide to do a special action (see section Special Actions).
+
+Next, ingredient cards are exchanged according to the player's rank. No one is allowed
+to see the cards they have received until the exchange is completed.
+
+The rarest ingredients go to the most skilled person in the kitchen: the Chef. The Chef
+receives these cards from the Dishwasher. In return. the Chef gives two cards of their
+choosing.
+
+The Sous-Chef receives similar benefts: the Waiter gives their highest value card to the
+Sous-Chef. While the Sous-Chef hands over one ingredient card of their choosing.
+
+First round explained:
+The start of the first shift is different. Everyone is new in the restaurant. There are no
+ranks determined yet and no cards are exchanged. Making the pizzas and ending the shift remain
+the same.
+
+
+
+Section 2: Making Pizzas
+Time to make pizzas! Pizzas are made by placing ingredients on the pizza base. All players
+place ingredients on the same pizza base.
+
+The person who possesses the Golden Mozzarella starts making the first pizza of the Shift
+Every Shift has to start with the Golden Mozzarella. The player left of them can lay the next
+ingredients). The Shift moves clockwise.
+
+When it is your turn to place ingredients on the pizza base, there are two options:
+Option A: Place your ingredients on the pizza
+Option B: Pass your turn
+
+For the option A: Place ingredients of the pizza. 
+Ingredient cards are placed on the pizza one by one, on top of the cards of the previous player.
+To place an ingredient on the pizza it needs to meet two requirements:
+
+First, the ingredients are played from highest to lowest number thus 11 to 1. As part of the kitchen staff, 
+you need to be original, you do this by laying down ingredients on the pizza base that are rarer than
+the competition. This rule is shown in Example 1.
+
+Exemple 1:
+
+Situation: One card 10 - Tomato was placed on top of the pizza. 
+Possible action: Place an 8 on top of the 10.
+Not allowed: Place an 11 on top of the 10.
+Not allowed: Place an 10 on top of the 10.
+
+Second, you cannot place less ingredients on the pizza than the amount of ingredients that have already been
+put on. This is because you have to match or be better than your opponents to top them. View this rule in Example 2.
+
+Example 2:
+Situation: Four 11's were placed on top of the pizza.
+Possible action: Place five 9's on top of the four 11's
+Possible action: Place four 7s on top of the four 11's
+Not allowed: Place three 4's on top of the four 11's
+
+
+B. Pass your turn
+You pass your turn when you place your pass-card next to the pizza in the designated spot This is done when you cannot
+or do not want to place any more ingredients on the pizza. Once you have passed, you pass for the entire pizza.
+
+When all players but one have passed, the pizza is finished by the person who is left. The player who finished the pizza
+will place it in the oven and starts a new pizza. When a new pizza is started all players can play again and everybody can
+take back their pass-card.
+
+When the person who finishes the pizza has no cards left, the person to the left of them willstart a new pizza.
+
+Section 3: End of shift
+
+A Shift ends when no players have ingredient cards left. According to the order of finishing points will be distributed.
+Next the roles are assigned and the kitchen costumes are exchanged.
+
+DESCRIBE THE IMAGE HERE
+
+Special Cards Section
+
+The Joker: There are two Joker cards that can be used in combination with other ingredient cards. When played on its own,
+a Joker has a value of 12. When in possession of two Jokers a special action can be madee (see Special Action section)
+
+The Golden 11: There is only one Golden Mozzarella in the deck. The player who owns this card starts the round. It's possible
+to play this card in combination with regular Mozzarella cards.
+
+The Pass-card: This card is used to show that a turn passed, by laying the card next to the pizza. Each player nas their own
+spot to place their pass-card. The player takes the card back into their hand when a new Pizza is started.
+
+Role cards: There are four role cards matchlng the roles in the kitchen. These lay in front Of each player and are exchanged
+together with the roles after a Shift. When a player does a special action (e.g. food fight) this card will be turned over
+and the action is revealed. On both sides of the role card a small explanatlon can be found.
+
+Special Action Section 
+If you have two Jokers, you can decide to do a special action at the start of the Shift by turning over your role card. What this
+special action is depends on your role. The Chef, Sous-Chef or Waiter can choose to say 'Dinner is served!' This means the card
+exchange at the beginning of the shift will not happen. The roles of all players remain the same. The Dishwasher can choose to say
+'Food Fight!' When said, the roles of all players are reversed. This means the Sous-Chef becomes the Waiter and the Chef becomes the
+Dishwasher. During the switching of the roles, players keep their ingredient cards. After the switch, the card exchange happens
+according to the new roles.
+
+Winning the Game
+The game ends when a player has reached 15 points. In the case of two players reaching 15 ponts in the same Shift, the person
+With the most points wins the game. If they have the same amount of points, the player with the highest rank in the last Shift wins.
+
