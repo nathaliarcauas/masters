@@ -9,6 +9,17 @@ Original file is located at
 
 !pip install langchain openai weaviate-client
 
+!pip install pyttsx3
+import pyttsx3
+
+!pip install espeak
+import espeak
+
+def speak_move(move):
+  engine = pyttsx3.init()
+  engine.say(move)
+  engine.runAndWait()
+
 import os
 
 # Defina a sua chave da API do OpenAI
@@ -79,17 +90,10 @@ rag_chain = (
     | StrOutputParser()
 )
 
-query = "Describe the Sous-chef behaviour in chef's hat"
-rag_chain.invoke(query)
+def new_move (move):
+  query = move
+  return rag_chain.invoke(query)
 
-query = "What's the best strategy in chef's hat?"
-rag_chain.invoke(query)
+answer = new_move("Describe the Sous-chef behaviour in chef's hat")
 
-query = "What's the specific rule for the waiter?"
-rag_chain.invoke(query)
-
-query = "The player on the left used the golden mozzarella"
-rag_chain.invoke(query)
-
-query = "The next player used a chilli peper"
-rag_chain.invoke(query)
+speak_move(answer)
