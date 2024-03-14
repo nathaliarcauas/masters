@@ -149,6 +149,9 @@ exchange at the beginning of the shift will not happen. The roles of all players
 Dishwasher. During the switching of the roles, players keep their ingredient cards. After the switch, the card exchange happens
 according to the new roles.
 
+Chefs Hat Simulator
+The game has it's own simulator. Every game starts with 
+
 Winning the Game
 The game ends when a player has reached 15 points. In the case of two players reaching 15 ponts in the same Shift, the person
 With the most points wins the game. If they have the same amount of points, the player with the highest rank in the last Shift wins.
