@@ -18,7 +18,7 @@ o8 - Mushroom
 o9 - Onion
 10 - Tomato
 11 - Mozzarella
-Joker
+12 - Joker
 
 Playing Field
 The playing field is a pizza base on top of a cutting board. Place the
