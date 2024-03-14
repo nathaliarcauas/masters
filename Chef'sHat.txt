@@ -149,10 +149,14 @@ exchange at the beginning of the shift will not happen. The roles of all players
 Dishwasher. During the switching of the roles, players keep their ingredient cards. After the switch, the card exchange happens
 according to the new roles.
 
-Chefs Hat Simulator
-The game has it's own simulator. Every game starts with 
-
 Winning the Game
 The game ends when a player has reached 15 points. In the case of two players reaching 15 ponts in the same Shift, the person
 With the most points wins the game. If they have the same amount of points, the player with the highest rank in the last Shift wins.
+
+Chefs Hat Simulator
+The game has it's own simulator. Every game starts with important data for the simulation, called "experiment". The beggining of the game always has a sentence "Starting new Episode:".
+The beginning of a shift always has a sentence "Round:". All players moves are described with their number, for example "Player 3". It is followed by the "Player Hand" which describes the cards the play has before playing. Then, "Board Before" describes the cards present on the board. It is important to note that, is a card "13" is displayed in the board, it means the board is empty. There are two possible actions, described as "Action:". It can be the discard action, which containd the word "discard" and the cards used. For example: "Action: ('DISCARD', [11])" means the player discarded the card 11. There is also the action pass, which is described as "Action: ('PASS', [0])" Is this case, the number in the brackets doesnt matter. The final information about a player's move is the board result after the action, described with "Board After:". The shift is done when the simulator prompts "Pizza ready!!!".
+
+
+
 
